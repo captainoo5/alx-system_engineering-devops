@@ -1,0 +1,2 @@
+#!/bin/bash
+finf . -empty | rev | cut -d '/'\-f i | rev 
