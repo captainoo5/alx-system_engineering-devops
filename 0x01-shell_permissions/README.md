@@ -1,1 +1,1 @@
- A script changes the owner of the file hello to the user betty
+A script that create an empty file hello
