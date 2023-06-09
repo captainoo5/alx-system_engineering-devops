@@ -1,1 +1,1 @@
-A script that all the groups the curreent is part of
+ A script changes the owner of the file hello to the user betty
