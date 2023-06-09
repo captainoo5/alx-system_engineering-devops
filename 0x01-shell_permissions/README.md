@@ -1,1 +1,1 @@
- A script that prints the effective name of the current user
+A script that all the groups the curreent is part of
