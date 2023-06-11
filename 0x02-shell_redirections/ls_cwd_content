@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 engineer engineer 4096 Jun 11 01:38 .
+drwxrwxr-x 7 engineer engineer 4096 Jun 10 23:57 ..
+-rwxrw-r-- 1 engineer engineer   32 Jun 10 23:58 0-hello_world
+-rwxrw-r-- 1 engineer engineer   28 Jun 11 00:00 1-confused_smiley
+-rwxrw-r-- 1 engineer engineer   28 Jun 11 00:07 2-hellofile
+-rwxrw-r-- 1 engineer engineer   40 Jun 11 00:09 3-twofiles
+-rwxrw-r-- 1 engineer engineer   35 Jun 11 00:11 4-lastlines
+-rwxrw-r-- 1 engineer engineer   35 Jun 11 00:14 5-firstlines
+-rwxrw-r-- 1 engineer engineer   40 Jun 11 00:20 6-third_line
+-rwxrw-r-- 1 engineer engineer   96 Jun 11 01:32 7-file
+-rwxrw-r-- 1 engineer engineer   36 Jun 11 01:38 8-cwd_state
+-rw-rw-r-- 1 engineer engineer   40 Jun 11 01:27 \*\\'"Best
+-rw-rw-r-- 1 engineer engineer    0 Jun 11 01:38 ls_cwd_content
+-rw-rw-r-- 1 engineer engineer   52 Jun 11 00:09 README.md
